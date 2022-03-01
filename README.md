@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dan4D365
-- 👀 I’m interested in ... Dynamics 365, Dynamics CRM, Dynamics CE
+- 👀 I’m interested in ... Dynamics 365, Dynamics CRM, Dynamics CE, Dynamics AX, Dynamics F&O, Dynamics NAV, Dynamics Business Central. 
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... Dynamics 365, Power Platform, .NET / C# 
 - 📫 How to reach me ... Daniel.McCarthy@Synapri.com 
